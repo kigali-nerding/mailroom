@@ -30,3 +30,5 @@ fabconfig.pyc
 
 # GoLand config folder
 .idea/
+
+.env
